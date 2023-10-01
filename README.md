@@ -7,6 +7,7 @@ List of some amazing design/css properties and tools.
 <span id="colors"></span>
 Background Color: 
 
-```bash rgb(23,23,23) ```
+```bash
+rgb(23,23,23) ```
 
 
