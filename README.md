@@ -2,6 +2,6 @@
 List of some amazing design and css properties and tools.
 
 ### Contents
-[make]()
+• [Colors](#colors)
 
 
