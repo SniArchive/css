@@ -5,7 +5,7 @@ List of some amazing design/css properties and tools.
 • [Dark Colors](#dark_colors)
 
 <span id="dark_colors"></span>
-DBackground Colors: 
+Background Colors: 
 ```bash
 rgb(23,23,23)
 ```
