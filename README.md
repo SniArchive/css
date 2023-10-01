@@ -8,6 +8,7 @@ List of some amazing design/css properties and tools.
 Background Color: 
 
 ```bash
-rgb(23,23,23) ```
+rgb(23,23,23)
+```
 
 
