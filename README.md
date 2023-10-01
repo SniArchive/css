@@ -18,6 +18,11 @@ Buttons BgColor:
 ```bash
 rgba(38,38,38,.3)
 ```
+OnHover Colors:
+```bash
+send me id u know
+```
+
 
 
 
