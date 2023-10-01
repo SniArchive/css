@@ -2,10 +2,10 @@
 List of some amazing design/css properties and tools.
 
 ## Contents
-• [Colors](#colors)
+• [Dark Colors](#dark_colors)
 
-<span id="colors"></span>
-Background Colors: 
+<span id="dark_colors"></span>
+DBackground Colors: 
 ```bash
 rgb(23,23,23)
 ```
@@ -20,7 +20,7 @@ rgba(38,38,38,.3)
 ```
 OnHover Colors:
 ```bash
-send me id u know
+tell me if u know
 ```
 
 
