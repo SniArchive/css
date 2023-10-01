@@ -10,7 +10,7 @@ Background Color:
 ```bash
 rgb(23,23,23)
 ```
-blueish bg
+
 ```bash
 #151519;
 ```
