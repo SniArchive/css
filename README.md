@@ -1,27 +1,16 @@
-# css 🌔
-List of some amazing design/css properties and tools.
+# css ⚒️
+Some amazing CSS resources.
 
 ## Contents
 • [Dark Colors](#dark_colors)
 
 <span id="dark_colors"></span>
-Background Colors: 
+Dark Colors: 
+
 ```bash
 rgb(23,23,23)
 ```
 
-```bash
-#151519
-```
-Buttons BgColor:
-
-```bash
-rgba(38,38,38,.3)
-```
-OnHover Colors:
-```bash
-tell me if u know
-```
 
 
 
